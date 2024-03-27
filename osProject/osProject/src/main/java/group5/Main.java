@@ -9,7 +9,7 @@ import java.io.IOException;
 
 public class Main {
 
-    private static final String ACCESS_TOKEN = "sl.ByO0SgM_m5m4jMT11qM_y1ww0LicvaP9i5TZAViAiJPpUkuUTQL4t1GziArCOjuk507lCC-JKdqmiK00D-1-sJP9kedJxWhcEvLO0ly812XeU1YC96HbQBrOf2NfzpVKABkJeDk8bj3YtjNIa8whgRI";
+    private static final String ACCESS_TOKEN = "";
 
     public static void main(String args[]) {
         System.out.println("Hi");
